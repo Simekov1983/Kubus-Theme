@@ -1,9 +1,1 @@
-[![](https://nvquicktheme.nvisionative.com/portals/0/nvQuickTheme_logo.png)](https://nvquicktheme.nvisionative.com)
-
-[![Build status](https://nvisionative.visualstudio.com/nvQuickTheme/_apis/build/status/nvQuickTheme-Node.js%20With%20gulp-CI)](https://nvisionative.visualstudio.com/nvQuickTheme/_build/latest?definitionId=1) [![Greenkeeper badge](https://badges.greenkeeper.io/nvisionative/nvQuickTheme.svg)](https://greenkeeper.io/) [![HitCount](http://hits.dwyl.io/nvisionative/nvQuickTheme.svg)](http://hits.dwyl.io/nvisionative/nvQuickTheme)
-
-**nvQuickTheme** is more than just a great minimalist DNN (DotNetNuke) theme.  It is a powerful theme building framework and developer workflow.  This "starter solution" was made with developer efficiency and the ultimate DNN theme performance in mind.  Most DNN themes in the marketplace today are loaded with bloat, which can make theming a pain, and for someone new to DNN, almost impossible.  Our [documentation](https://nvisionative.github.io/nvQuickTheme/) will outline basic usage, modification, and advanced usage of this framework and developer workflow.
-
-Are you tired of spending countless hours trying to squeeze every ounce of performance out of your DNN themes, just so you can rank better on *Google PageSpeed Insights*?  How are your scores?  Have you broken the **80s for Desktop** or the **60s for Mobile**?  You have probably discovered by now that it is very tough to accomplish this on a DNN site.  
-
-Well, the search is over!  Utilizing **nvQuickTheme**, you can rest assured that you are doing everything you possibly can within the context of the theme to achieve stellar scores.  As a matter of fact, the [nvQuickTheme website](http://www.nvquicktheme.com), which of course is running nvQuickTheme, scores **100/100 (Desktop)** and **89/100 (Mobile)**.  Yes, you read that correctly.  If you don't believe us, please feel free to [analyze it yourself](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fwww.nvquicktheme.com%2F&tab=desktop)!
+Kubus Media First Theme
