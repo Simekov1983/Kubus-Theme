@@ -6,17 +6,16 @@
 
 <!-- Main Content -->
 <main>
-  <div class="container-fluid bannerpane">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div id="BannerPane" class="col-md-8 text-center" runat="server"></div>
-      </div>
+  <!-- Main Slider -->
+  <div class="container-fluid-bkp bg-dark bannerpane">
+    <div class="justify-content-center">
+      <div id="BannerPane" class="text-center" runat="server"></div>
     </div>
   </div>
 
   <div class="container">
     <div class="row justify-content-center">
-      <div id="ContentPane" class="col-md-8 text-center" runat="server"></div> 
+      <div id="ContentPane" class="col-md-12 text-center" runat="server"></div> 
     </div>
   </div>
 
@@ -38,7 +37,7 @@
 
   <div class="container">
     <div class="row justify-content-center">
-      <div id="SinglePaneOne" class="col-md-8 text-center" runat="server"></div>
+      <div id="SinglePaneOne" class="col-md-12 text-center" runat="server"></div>
     </div>
   </div>    
 </main>

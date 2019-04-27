@@ -1,9 +1,9 @@
 {
-	"project": "nvQuickTheme",
-	"version": "2.0.0",
-	"author": "TK Sheppard &amp; David Poindexter",
-	"company": "nvisionative",
-	"url": "www.nvquicktheme.com",
+	"project": "CustomTheme",
+	"version": "1.0.0",
+	"author": "Sime Kovacevic Jr",
+	"company": "kubus ing.",
+	"url": "www.kubus.hr",
     "email": "support@nvisionative.com",
-    "description": "A DNN Theme Dev Framework"
+    "description": "Custom DNN Theme"
 }

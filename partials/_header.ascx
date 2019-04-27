@@ -1,5 +1,5 @@
-<header class="bg-light-grey">
-  <div class="container-fluid user-controls bg-tertiary">
+<header class="navbar-wrapper navbar-boxed navbar-ghost">
+  <div class="container-fluid user-controls bg-white">
     <div class="container">
       <div class="row justify-content-end">
         <ul>
@@ -11,14 +11,14 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid">
-    <div class="container">
-      <div class="row nav-main">
-        <dnn:LOGO id="dnnLOGO" runat="server" />
-        <nav id="nav-items">
-          <dnn:MENU id="menu" MenuStyle="menus/main" runat="server" NodeSelector="*"></dnn:MENU>
-        </nav>
-      </div>
+  <div class="container-fluid main-navigation">
+    <div class="d-table-cell align-middle pr-md-3">
+      <dnn:LOGO id="dnnLOGO" runat="server" />
+    </div>
+    <div class="d-table-cell w-100 align-middle pl-md-3">
+      <nav id="nav-items">
+        <dnn:MENU id="menu" MenuStyle="menus/main" runat="server" NodeSelector="*"></dnn:MENU>
+      </nav>
     </div>
   </div>
 </header>
